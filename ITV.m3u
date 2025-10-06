@@ -285,45 +285,8 @@ CETV-4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227331/index.m3u
 CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CETV-4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
-💰央视付费频道,#genre#
-文化精品,https://hls-gateway.vpstv.net/streams/708832.m3u8
-央视台球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-央视台球,https://hls-gateway.vpstv.net/streams/708855.m3u8
-央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
-风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8
-第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
-第一剧场,https://hls-gateway.vpstv.net/streams/708862.m3u8
-第一剧场,http://tl.061833.xyz/tl/null-6
-第一剧场,https://100.061833.xyz/stream/mytv/null-6/stream.m3u8?uid=2190244325&u=hahayy&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
-风云剧场,https://hls-gateway.vpstv.net/streams/708861.m3u8
-怀旧剧场,https://cc06.tv12.xyz/52.m3u8
-怀旧剧场,https://hls-gateway.vpstv.net/streams/708853.m3u8
-女性时尚,https://cc06.tv12.xyz/95.m3u8
-高尔夫网球,https://hls-gateway.vpstv.net/streams/708857.m3u8
-风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
-风云足球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-风云足球,https://live.goodiptv.club/api/yqgd.php?id=fyzq
-风云足球,https://hls-gateway.vpstv.net/streams/708859.m3u8
-风云足球,https://cc06.tv12.xyz/41.m3u8
-电视指南,https://cc06.tv12.xyz/39.m3u8
-世界地理,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
-世界地理,https://cc06.tv12.xyz/104.m3u8
-兵器科技,https://hls-gateway.vpstv.net/streams/708856.m3u8
-
 ☘️广东频道,#genre#
-广东珠江,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091
-广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-广东珠江,https://tv.cdn.com.mp/live/gdzj/stream.m3u8
-广东珠江,http://lu.wqwqwq.sbs/itv/2000000003000000033.m3u8?cdn=hnbblive
-广东珠江,https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
-广东珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
-广东珠江,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000003000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000033&yang-1989
-广东珠江,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010091/0.m3u8
-广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
-广东珠江,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
-广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
-广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
+
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-3.m3u8
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,https://hls-gateway.vpstv.net/streams/476954.m3u8
