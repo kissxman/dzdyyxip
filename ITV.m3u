@@ -1,6 +1,7 @@
 港澳台,#genre#
 
 翡翠台,http://74.91.26.218:82/live/jade.m3u8
+翡翠台,https://smart.dxjc.pp.ua/smart.php?id=Jade_xue&token=tmxk
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
 翡翠台,https://stream1.freetv.fun/fei-cui-6.ctv
@@ -15,6 +16,7 @@ TVB PLUS,http://r.jdshipin.com/ndGgS
 TVB PLUS,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 Now新聞台,https://cdn.163189.xyz/163189/now
+Now新聞台,https://mgev.188766.xyz/?migutoken=9948cb1c139536df24ae4f328c6f4db6&id=hk_now&type=dy
 RTHK 31「限HK」,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 RTHK 32「限HK」,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 鳳凰衛視·中文,http://r.jdshipin.com/cCCzW
@@ -52,5 +54,5 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 靖天资讯,https://stream1.freetv.fun/jing-tian-zi-xun-2.ctv
 靖天资讯,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv065
 
-4GTV,#genre#
+CCTV,#genre#
 
