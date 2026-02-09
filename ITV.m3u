@@ -21,6 +21,7 @@ Now新聞台,https://cdn.163189.xyz/163189/now
 Now新聞台,https://mgev.188766.xyz/?migutoken=9948cb1c139536df24ae4f328c6f4db6&id=hk_now&type=dy
 RTHK 31「限HK」,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 RTHK 32「限HK」,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+HOY TV,https://othhsqgmsbpn.ap-northeast-1.clawcloudrun.com/smart.php?id=hoycaijing_twn&token=kiko
 鳳凰衛視·中文,http://r.jdshipin.com/cCCzW
 鳳凰衛視·資訊,http://r.jdshipin.com/0Rp07
 鳳凰衛視·香港,http://r.jdshipin.com/yDoTN
@@ -78,5 +79,10 @@ CCTV-15,https://othhsqgmsbpn.ap-northeast-1.clawcloudrun.com/smart.php?id=cctv15
 CCTV-16,https://othhsqgmsbpn.ap-northeast-1.clawcloudrun.com/smart.php?id=cctv16&token=kiko
 CCTV-17,https://othhsqgmsbpn.ap-northeast-1.clawcloudrun.com/smart.php?id=cctv17&token=kiko
 https://othhsqgmsbpn.ap-northeast-1.clawcloudrun.com/smart.php?id=cctv5plus&token=kiko
+
+广东台,#genre#
+
+珠江台,https://othhsqgmsbpn.ap-northeast-1.clawcloudrun.com/smart.php?id=zhujiang&token=kiko
+
 
 
